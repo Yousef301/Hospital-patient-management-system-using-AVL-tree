@@ -1,1 +1,1 @@
-# The-hospital-patient-management-system
+Hospital patient management system using AVL tree
