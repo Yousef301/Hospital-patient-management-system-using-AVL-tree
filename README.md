@@ -9,7 +9,6 @@ Abed Mukhles#M#2212019#01012000#Ear Infection#Jenin#O+
 Nadia A. Ali#F#01102020#05101970#COVID-19#AlBireh#A-
 
 You are required to implement a program to help creating the system by including the following operations of an AVL tree:
-  
     • Read the file patients.txt and load the data (i.e., AVL Tree).
   
     • Insert a new patient from user with all its associated data.
@@ -25,17 +24,16 @@ You are required to implement a program to help creating the system by including
     • Save all words in file “patients_hash.data”
   
 Then create a Hash Table using the patients’ data of the previous step (use names as keys). The project should use open addressing methods for collision resolution and implement the following functions on the hash table:
+    • Print hashed table (i.e., print the entire table to the screen including empty spots).
   
-  • Print hashed table (i.e., print the entire table to the screen including empty spots).
+    • Print out table size.
+    
+    • Print out the used hash function.
+    
+    • Insert a new record into the hash table.
   
-  • Print out table size.
+    • Search for a specific patient.
   
-  • Print out the used hash function.
+    • Delete a specific record.
   
-  • Insert a new record into the hash table.
-  
-  • Search for a specific patient.
-  
-  • Delete a specific record.
-  
-  • Save hash table back to file.
+    • Save hash table back to file.
