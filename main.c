@@ -1,4 +1,4 @@
-// Name: Yousef Shamasneh ---------- ID: 1190300
+// By Yousef Shamasneh
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
