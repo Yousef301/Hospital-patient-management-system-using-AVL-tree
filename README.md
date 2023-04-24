@@ -10,19 +10,19 @@ Nadia A. Ali#F#01102020#05101970#COVID-19#AlBireh#A-
 
 You are required to implement a program to help creating the system by including the following operations of an AVL tree:
   
-  • Read the file patients.txt and load the data (i.e., AVL Tree).
+    • Read the file patients.txt and load the data (i.e., AVL Tree).
   
-  • Insert a new patient from user with all its associated data.
+    • Insert a new patient from user with all its associated data.
   
-  • Find a patient and give the user the option to update the information of the patient if found.
+    • Find a patient and give the user the option to update the information of the patient if found.
   
-  • List all patients in lexicographic order with their associated information.
+    • List all patients in lexicographic order with their associated information.
   
-  • List all patients that have the same illness.
+    • List all patients that have the same illness.
   
-  • Delete a patient from the system.
-  
-  • Save all words in file “patients_hash.data”
+    • Delete a patient from the system.
+    
+    • Save all words in file “patients_hash.data”
   
 Then create a Hash Table using the patients’ data of the previous step (use names as keys). The project should use open addressing methods for collision resolution and implement the following functions on the hash table:
   
