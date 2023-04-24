@@ -1,4 +1,4 @@
-#Hospital patient management system using AVL tree
+# Hospital patient management system using AVL tree
 You will build a system to manage patients’ data in a hospital. The hospital patient management system stores specific information in the form of health record to keep track of the patients’ data.
 Your program should read the information from a file called “patients.txt” that should be on the following format: Patient Name#Gender#Date of admission#Date of birth #Illness#Address (City)#Blood type
 
